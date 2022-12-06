@@ -1,16 +1,25 @@
 # Prework-study-guide
 
 
-## A study guide to help students access previously learned content easily.
+## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+A study guide to help boot camp students access prework notes. Containing notes on HTML, CSS, Git and JavaScript.
+
 
 - The motivation behind this guide was to collect notes to refer back to during the course.
 - We built this project so that we could practice coding whilst also fixing a real world problem students face with notes.
-- This guide helps students to easily find and add notes and info to research and devlope codings skills further.
-- While creating this guide we learnt to find solutions for html css and javascript. We learnt the best way to learn to code is by doing code regularly.
+- This guide helps students to easily find and add notes to research and devlope codings skills further.
+- While creating this guide we learnt to find solutions for html css and javascript with Git as the backbone to keep everything composed and saved. We learnt the best way to learn to code is by doing code regularly.
 
 ## Table of Contents (Optional)
+-Description
+-Installation
+-Usage
+-Credits
+-License
+-Badges
+-Features
+Tests
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
